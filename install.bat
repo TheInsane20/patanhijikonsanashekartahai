@@ -1,5 +1,5 @@
 :top
-@echo off
+@echo on
 npm i 
 npm i discord.js
 npm i node-html-to-image
